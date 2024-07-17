@@ -1,4 +1,4 @@
-package adapter.classAdapter;/**
+package adaper.classAdapter; /**
  * 作者:灰爪哇
  * 时间:2024-07-17
  */
